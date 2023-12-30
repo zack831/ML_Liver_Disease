@@ -16,18 +16,25 @@ Contains various Notebooks for various Train and Test Splitted Datasets.
 
 **4. Cleaning,Imputing and Merging**
 --Contains various folder as given below.
+
 **I)Cleaning & Merge Part 1**
 -- Process of extracting only requied features and renaming columns as per a standard.
+
 **II)Imputing Missing & Partition**
 -- Process of Imputing missing values in Cirrhosis and Hepatitis datasets.
+
 **III)Final Merge**
 -- Final Merging of all three datasets after imputing all the null values and removing redundancy.
+
 **IV)Cleaning Merge Non Liver**
 -- Process of extracting only requied features,renaming columns & extracting only patients who dosen't have liver disease as per a standard from liver patient dataset and merging it with the final merged dataset obtained in previous step.
+
 **V)Mortality**
 -- Finding the mortality rate of the patients that have either of the three liver disease
+
 **VI)Classification**
 -- Classifing the type of disease the patient have given some specific symptoms.
+
 **VII)Percentage of Disease Mortality**
 -- Finding the mortality percentage of each disease.
 
